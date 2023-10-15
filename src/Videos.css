@@ -1,0 +1,22 @@
+.videos{
+    flex: 0.8;
+    background-color: #f9f9f9;
+    
+}
+
+.videos > h2{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.videoElements{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+}
+.category{
+    display: 0.8;
+    justify-content: flex-start;
+}
+
+

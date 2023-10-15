@@ -1,0 +1,30 @@
+.videoCard{
+    margin-bottom: 40px;
+    width: 270px;
+    padding: 10px;
+}
+
+.videoCard_thumbnail{
+    width: 270px;
+    border-radius: 10px;
+}
+
+.videoCard_thumbnail:hover{
+    width: 270px;
+    border-radius: 0;
+    transition: 500ms;
+
+}
+
+.contentColor{
+    color: #606060;
+}
+
+.videoCard_info{
+    padding-top: 10px;
+    display: flex; 
+}
+
+.videoCard_avatar{
+    margin-right: 10px;
+}
